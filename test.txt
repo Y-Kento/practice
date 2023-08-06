@@ -1,3 +1,6 @@
 clear
+make cleared2
+update cleared2
 make cleared1
 mearged cleared1
+
